@@ -1,0 +1,126 @@
+body{
+    background-color: rgb(245, 222, 192);
+    font-family:'montserrat',sans-serf;
+    width: 1440px;
+
+}
+
+h1{
+    line-height: 1;
+    margin: 20;
+    padding: 0% 8% 0% 51%;
+    font-size: 41px;
+    font-family: 'Fraunces','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    Weight: 500;
+    width: 25%;   
+    
+}
+
+h2{
+    font-size: small;
+    letter-spacing: 1ch;
+    margin: 20;
+    padding: 4% 17% 0% 51%;
+}
+.text-decoration{
+    text-decoration: line-through;
+    font-size : 13px;
+    font-weight: 700;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+
+}
+
+.body_text{
+    line-height: 2;
+    color: #73777B;
+    font-size : 18px;
+    font-weight: 700;
+    font-Family : 'Fraunces'(https://fonts.google.com/specimen/Fraunces)   
+    margin: 20 26% 0% 51%;
+    padding: 1% 17% 1% 53%;
+     
+}
+
+.text{
+    float:right;
+}
+    
+.price{
+    font-family: 'Fraunces', serif;
+    color: rgb(40, 139, 65);
+    margin: -66px 6px -52px 19px;
+    padding: 27% 75% 21% 3%;
+}
+
+.botton{
+    float:right;
+    margin: 20;
+    padding: 0%;
+    width: 493px;
+
+}
+
+.image{
+    border-top-left-radius: 4%;
+    border-bottom-left-radius: 4%;
+    background-color: rgb(164, 200, 231);
+    width: 50%;
+    float: left;
+    margin:-1px 11px 380px -7px;
+    height:668px ;
+}
+
+.right_container{
+    background-color: #EAF6F6;
+    border-radius: 4%;
+    margin:auto; 
+    width: 950px;
+    height:120px;
+    padding: 0% 0% 38% 0%;
+    
+}  
+
+.Add-to-Cart{
+    -WebKit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    color: #EAF6F6;
+    font-family: 'montserrat',sans-serf;
+    font-size 52px;
+    font-weight: 100;
+    padding: 23px;
+    background-color: #07562B;
+    border: solid #298B2B 0;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin:-110% 4px 18px 67px;
+    width: 62%;
+ }
+
+ .icon{
+    float: left;
+    color: #EAF6F6;
+    width: 30;
+    text-decoration: overline;
+
+ }
+ 
+ .Add-to-Cart:hover {
+    border: solid #47724E 0;
+    background: #6CD199;
+    background-image: -webkit-linear-gradient(top, #6CD199, #2ABF9C);
+    background-image: -moz-linear-gradient(top, #6CD199, #2ABF9C);
+    background-image: -ms-linear-gradient(top, #6CD199, #2ABF9C);
+    background-image: -o-linear-gradient(top, #6CD199, #2ABF9C);
+    background-image: -webkit-gradient(to bottom, #6CD199, #2ABF9C);
+    -WebKit-border-radius: 14px;
+    -moz-border-radius: 14px;
+    border-radius: 14px;
+    text-decoration: none;
+ }
+
+    
+
